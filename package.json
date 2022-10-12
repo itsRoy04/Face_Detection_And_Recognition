@@ -9,8 +9,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@tensorflow/tfjs": "^3.21.0",
     "@tensorflow/tfjs-backend-wasm": "^3.21.0",
-    "@vladmandic/face-api": "^1.7.4"
+    "@vladmandic/face-api": "^1.7.4",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-extract-frame": "^1.0.2",
+    "ffmpeg-extract-frames": "^2.0.2",
+    "videoshow": "^0.1.12"
   }
 }
